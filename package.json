@@ -1,0 +1,19 @@
+{
+  "name": "myangularlibrary",
+  "version": "1.0.0",
+  "description": "My Attempt at publishing an Angular Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcusTHellams/myangularlibrary.git"
+  },
+  "author": "Marcus T. Hellams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcusTHellams/myangularlibrary/issues"
+  },
+  "homepage": "https://github.com/MarcusTHellams/myangularlibrary#readme"
+}
